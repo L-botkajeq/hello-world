@@ -27,7 +27,7 @@ public class hello {
         
         System.out.println("geeks123: " + geeks123);
 
-
+        print("hello world")
         
 
         boolean b1=true;
@@ -106,3 +106,4 @@ public class hello {
 
     }
 }
+
